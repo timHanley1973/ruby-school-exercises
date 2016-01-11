@@ -1,2 +1,3 @@
 # ruby-school-execises
-# Launch school repository
+# Launch school repository, organized by chapter
+
